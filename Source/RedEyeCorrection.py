@@ -9,7 +9,7 @@ import cv2
 import numpy as np
 
 #read image
-img = cv2.imread("one.jpg") # pass the name of image to be read
+img = cv2.imread("testImg1.jpg") # pass the name of image to be read
 
 outImage = img.copy()
 # Load HAAR cascade
